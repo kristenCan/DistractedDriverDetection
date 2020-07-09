@@ -1,4 +1,2 @@
-File descriptions
-Kristen's_model.ipynb - The python notebook where we call out functions and visualize our results.
-train_array.pkl - Store the loaded train data in a tuple (Xtrain, Ytrain)
-test_array.pkl - Stores the loaded test data"# DistractedDriverDetection" 
+	•	Detect signs of distracted driving by using machine learning models and neural networks to predict whether the drivers shown in images are distracted or not in a team of 3 
+	•	Use tensorflow to create, compile models and acquired a validation accuracy of 98%.The data for this was acquired from the State Farm dataset from Kaggle with 22.4k labeled images and 79.7k unlabeled images
